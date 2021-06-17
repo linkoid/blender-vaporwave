@@ -1,5 +1,5 @@
 # Blender Vaporwave Addon
-Aids in the creation ov vaporwave meshes.
+Aids in the creation of vaporwave meshes.
 
 ## Table of Contents
 * [Install](#Install)
