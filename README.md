@@ -7,8 +7,8 @@ Aids in the creation of vaporwave meshes.
 
 ## Install
 * Download the attached `.zip` file from the most recent [release](https://github.com/linkoid/blender-vaporwave/releases), or directly clone the repository.
-* [Install](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#installing-add-ons) the add-on from within Blender
-* Enable the add-on in the preferences
+* [Install the add-on from within Blender](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#installing-add-ons).
+* Enable the add-on in the preferences.
 
 ## How to Use
 Have a mesh selected and in edit mode. In the 3D Viewport, switch to the "Vaporwave" tab on the right sidebar.
