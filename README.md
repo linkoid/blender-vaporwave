@@ -1,5 +1,6 @@
 # Blender Vaporwave Addon
 Aids in the creation of vaporwave meshes.
+
 [Github](https://github.com/linkoid/blender-vaporwave)
 
 ## Table of Contents
