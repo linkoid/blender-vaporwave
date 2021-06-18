@@ -1,4 +1,4 @@
-# [Blender Vaporwave Addon](](https://github.com/linkoid/blender-vaporwave)
+# [Blender Vaporwave Addon](https://github.com/linkoid/blender-vaporwave)
 Aids in the creation of vaporwave meshes.
 
 ## Table of Contents
