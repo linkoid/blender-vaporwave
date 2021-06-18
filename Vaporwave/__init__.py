@@ -3,7 +3,7 @@ bl_info = {
     "author": "@linkoid",
     "version": ("alpha", 2021, 6, 18),
     "blender": (2, 80, 0),
-    "location" : "3D Viewport > Side Bar > Vaporwave Tab",
+    "location" : "View 3D > Sidebar > Vaporwave",
     "description" : "The vaporwave add-on aids in the creation of vaporwave meshes.",
     "warning": "",
     "wiki_url": "https://github.com/linkoid/blender-vaporwave/blob/main/README.md",
